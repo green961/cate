@@ -1,0 +1,22 @@
+{
+  "name": "koya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -p ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-folder-size": "^1.7.1",
+    "iconv-lite": "^0.6.3"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.34.1",
+    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
+    "@types/node": "^18.11.18",
+    "prettier": "^2.8.2"
+  }
+}
